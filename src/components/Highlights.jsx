@@ -13,7 +13,7 @@ const Highlights = () => {
           <div className="highlight__wrapper">
             <Highlight
               icon={<FontAwesomeIcon icon="bolt" />}
-              title="Be a quote"
+              title="Fast Access"
               para="Purchase and read online instantly!"
             />
             <Highlight
